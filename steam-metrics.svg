@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title description">
+  <title id="title">Steam activity setup pending</title>
+  <desc id="description">Add the STEAM_TOKEN repository secret and run the Generate Steam metrics workflow.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171a21"/>
+      <stop offset="1" stop-color="#1b4b6f"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" rx="14" fill="url(#background)"/>
+  <circle cx="75" cy="90" r="38" fill="none" stroke="#66c0f4" stroke-width="7"/>
+  <circle cx="75" cy="90" r="12" fill="#66c0f4"/>
+  <path d="M87 82L124 58M124 58a18 18 0 1 0 0.1 0" fill="none" stroke="#66c0f4" stroke-width="7" stroke-linecap="round"/>
+  <text x="155" y="78" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="27" font-weight="600">Steam activity is ready to generate</text>
+  <text x="155" y="115" fill="#c7d5e0" font-family="Segoe UI, sans-serif" font-size="18">Add the STEAM_TOKEN repository secret, then run “Generate Steam metrics”.</text>
+</svg>
