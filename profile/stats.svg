@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title description">
+  <title id="title">GitHub statistics setup pending</title>
+  <desc id="description">The Generate GitHub stats workflow will replace this placeholder.</desc>
+  <rect width="495" height="195" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="65" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="22" font-weight="600">LYanl7's GitHub Stats</text>
+  <text x="28" y="105" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="16">Generating the first statistics card…</text>
+  <text x="28" y="137" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="14">This placeholder will be replaced automatically.</text>
+</svg>

@@ -2,21 +2,21 @@
 
 # Hi, I'm LYanl7 👋
 
-Welcome to my GitHub profile.
+Computer Science student at Fuzhou University.
 
 ## GitHub Stats
 
 <a href="https://github.com/LYanl7">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LYanl7&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="LYanl7's GitHub stats" />
+  <img height="170" src="./profile/stats.svg" alt="LYanl7's GitHub stats" />
 </a>
 <a href="https://github.com/LYanl7?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYanl7&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent" alt="LYanl7's most used languages" />
+  <img height="170" src="./profile/top-langs.svg" alt="LYanl7's most used languages" />
 </a>
 
 ## Steam Activity
 
 <a href="https://steamcommunity.com/profiles/76561198975172386/">
-  <img width="900" src="./steam-metrics.svg" alt="LYanl7's Steam activity" />
+  <img width="480" src="./steam-metrics.svg" alt="LYanl7's Steam activity" />
 </a>
 
 ## Contribution Snake
