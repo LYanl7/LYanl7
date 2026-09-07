@@ -30,16 +30,6 @@ Computer Science student at Fuzhou University.
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&amp;logo=minio&amp;logoColor=white" alt="MinIO" />
 </p>
 
-<h3 align="left">🛠️ AI &amp; Tools</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Hybrid_Retrieval-2563EB?style=flat-square" alt="Hybrid Retrieval" />
-  <img src="https://img.shields.io/badge/DeepEval-059669?style=flat-square" alt="DeepEval" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-</p>
-
 ---
 
 <a href="https://steamcommunity.com/profiles/76561198975172386/">
