@@ -4,7 +4,7 @@
 
 Computer Science student at Fuzhou University.
 
-## GitHub Stats
+---
 
 <a href="https://github.com/LYanl7">
   <img height="170" src="./profile/stats.svg" alt="LYanl7's GitHub stats" />
@@ -13,13 +13,13 @@ Computer Science student at Fuzhou University.
   <img height="170" src="./profile/top-langs.svg" alt="LYanl7's most used languages" />
 </a>
 
-## Steam Activity
+---
 
 <a href="https://steamcommunity.com/profiles/76561198975172386/">
   <img width="846" src="./steam-metrics.svg" alt="LYanl7's Steam profile and recent activity" />
 </a>
 
-## Contribution Snake
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LYanl7/LYanl7/output/github-contribution-grid-snake-dark.svg" />
