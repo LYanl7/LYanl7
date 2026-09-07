@@ -6,17 +6,17 @@ Computer Science student at Fuzhou University.
 
 ---
 
+<a href="https://steamcommunity.com/profiles/76561198975172386/">
+  <img width="846" src="./steam-metrics.svg" alt="LYanl7's Steam profile and recent activity" />
+</a>
+
+---
+
 <a href="https://github.com/LYanl7">
   <img height="170" src="./profile/stats.svg" alt="LYanl7's GitHub stats" />
 </a>
 <a href="https://github.com/LYanl7?tab=repositories">
   <img height="170" src="./profile/top-langs.svg" alt="LYanl7's most used languages" />
-</a>
-
----
-
-<a href="https://steamcommunity.com/profiles/76561198975172386/">
-  <img width="846" src="./steam-metrics.svg" alt="LYanl7's Steam profile and recent activity" />
 </a>
 
 ---
