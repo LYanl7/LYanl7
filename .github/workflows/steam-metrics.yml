@@ -17,25 +17,22 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    env:
-      STEAM_TOKEN: ${{ secrets.STEAM_TOKEN }}
 
     steps:
-      - name: Generate Steam activity card
-        if: ${{ env.STEAM_TOKEN != '' }}
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
-        with:
-          filename: steam-metrics.svg
-          token: NOT_NEEDED
-          base: ""
-          config_timezone: Asia/Shanghai
-          plugin_steam: yes
-          plugin_steam_token: ${{ env.STEAM_TOKEN }}
-          plugin_steam_user: "76561198975172386"
-          plugin_steam_sections: player, recently-played
-          plugin_steam_recent_games_limit: 3
-          plugin_steam_achievements_limit: 1
+      - name: Checkout repository
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
 
-      - name: Explain missing configuration
-        if: ${{ env.STEAM_TOKEN == '' }}
-        run: echo "Add the STEAM_TOKEN repository secret, then run this workflow again."
+      - name: Generate Steam profile card
+        env:
+          STEAM_TOKEN: ${{ secrets.STEAM_TOKEN }}
+        run: python scripts/generate_steam_card.py --steam-id 76561198975172386 --output steam-metrics.svg
+
+      - name: Commit generated card
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add steam-metrics.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update Steam profile card [skip ci]"
+          git push

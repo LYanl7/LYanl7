@@ -16,7 +16,7 @@ Computer Science student at Fuzhou University.
 ## Steam Activity
 
 <a href="https://steamcommunity.com/profiles/76561198975172386/">
-  <img width="480" src="./steam-metrics.svg" alt="LYanl7's Steam activity" />
+  <img width="846" src="./steam-metrics.svg" alt="LYanl7's Steam profile and recent activity" />
 </a>
 
 ## Contribution Snake
