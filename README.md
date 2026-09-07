@@ -6,21 +6,6 @@ Computer Science student at Fuzhou University.
 
 ---
 
-<p>
-  <strong>Backend &amp; Web</strong><br />
-  <code>Java</code> · <code>Spring Boot</code> · <code>MyBatis</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code>
-</p>
-<p>
-  <strong>Data &amp; Messaging</strong><br />
-  <code>MySQL</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>RabbitMQ</code> · <code>MinIO</code> · <code>Drizzle ORM</code>
-</p>
-<p>
-  <strong>AI &amp; Tooling</strong><br />
-  <code>AI Agents</code> · <code>Hybrid Retrieval</code> · <code>DeepEval</code> · <code>Docker</code> · <code>Git</code> · <code>CI/CD</code>
-</p>
-
----
-
 <a href="https://steamcommunity.com/profiles/76561198975172386/">
   <img width="846" src="./steam-metrics.svg" alt="LYanl7's Steam profile and recent activity" />
 </a>
